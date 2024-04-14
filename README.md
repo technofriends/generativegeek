@@ -7,6 +7,8 @@ This Jupyter notebook demonstrates how to generate and utilize embeddings using 
 - Computing cosine similarity for product descriptions and retrieving the most similar products
 - Visualizing the similarity of embeddings using dimensionality reduction and clustering techniques
 
+Accompanying Youtube Video : https://youtu.be/YJLUz6Zb4YQ
+
 ## Table of Contents
 
 - [Installation](#installation)
