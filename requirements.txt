@@ -2,3 +2,5 @@ openai
 scikit-learn
 matplotlib
 python-dotenv
+tiktoken
+pandas
